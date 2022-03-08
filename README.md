@@ -23,6 +23,7 @@ This repository contains collection of c program which help you to build basic p
 ## Contents
 
 - <a href='https://github.com/nikson-pj/c-programs/blob/master/factorial'>Factorial of a number</a>
+- <a href='https://github.com/nikson-pj/c-programs/blob/master/prime%20number'> Prime Number or Not</a>
 
 ## Contributors ✨
 
