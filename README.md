@@ -1,15 +1,6 @@
-# awesome-github-template
+# C Program Collection
 
-> The README of a GitHub project is the central entrypoint where people land
-> when they visit your project. You should provide useful information like
-> features, install and usage instructions and invite others to contribute to
-> your project.
-
-This is a template repository for awesome GitHub projects. 🦄 Batteries
-included. 🚀
-
-> These are shields which can display useful stats about your project. Check
-> out shields.io for more info and all available shields.
+This repository contains collection of c program which help you to build basic programming skill. 🚀
 
 [![Github license](https://img.shields.io/github/license/gfmio/awesome-github-template.svg "Github license")](https://github.com/gfmio/awesome-github-template/blob/master/LICENSE)
 [![Open issues](https://img.shields.io/github/issues/gfmio/awesome-github-template.svg "Open issues")](https://github.com/gfmio/awesome-github-template/issues)
@@ -22,7 +13,6 @@ included. 🚀
 
 ![Actively maintained (2020)](https://img.shields.io/maintenance/yes/2020.svg "Actively maintained (2020)")
 ![Website up/down](https://img.shields.io/website-up-down-green-red/https/github.com/gfmio/awesome-github-template.svg "Website up/down")
-[![Follow @gfmio on Twitter](https://img.shields.io/twitter/follow/gfmio.svg?label=follow+@gfmio "Follow @gfmio on Twitter")](https://twitter.com/gfmio)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -30,7 +20,7 @@ included. 🚀
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Features
+## Contents
 
 - [Pull request template](.github/pull_request_template.md)
 - Issue templates for [bug reports](.github/ISSUE_TEMPLATE/bug_report.md) and
@@ -44,34 +34,6 @@ included. 🚀
 - [Contributors](README.md#contributors)
   (via [All Contributors](https://allcontributors.org/))
 
-## Usage
-
-You can use this repository via GitHub's template repository feature. This will
-create a new repository with a single commit adding all files of this repository
-to your new one.
-
-Alternatively, you can also fork this repository. The commit history from this
-repository is then preserved and you can pull new changes from this repository
-into yours using:
-
-```sh
-git remote add upstream git@github.com:gfmio/awesome-github-template.git
-```
-
-More on that can be found on GitHub:
-[Syncing a fork](https://help.github.com/articles/syncing-a-fork/).
-
-Or you can just pick and choose the parts you want and ignore the rest.
-
-When using the templates in this repository, please ensure to update any names
-and contact details in the files.
-
-## Contributing
-
-If you've ever wanted to contribute to open source, now is your chance!
-
-See the [contributing docs](CONTRIBUTING.md) for more information.
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -81,7 +43,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.gfm.io"><img src="https://avatars1.githubusercontent.com/u/2878342?v=4" width="100px;" alt=""/><br /><sub><b>Frédérique Mittelstaedt</b></sub></a><br /><a href="https://github.com/gfmio/awesome-github-template/commits?author=gfmio" title="Documentation">📖</a> <a href="#ideas-gfmio" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-gfmio" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-gfmio" title="Maintenance">🚧</a></td>
+    <td align="center"><img src="https://github.com/account" width="100px;" alt=""/><br/>NIKSON P J<br /></a><br /><a href="https://github.com/gfmio/awesome-github-template/commits?author=gfmio" title="Documentation">📖</a> <a href="#ideas-gfmio" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-gfmio" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-gfmio" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
