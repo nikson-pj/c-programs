@@ -22,17 +22,7 @@ This repository contains collection of c program which help you to build basic p
 
 ## Contents
 
-- [Pull request template](.github/pull_request_template.md)
-- Issue templates for [bug reports](.github/ISSUE_TEMPLATE/bug_report.md) and
-  [feature requests](.github/ISSUE_TEMPLATE/feature_request.md)
-- [Contributor guidelines](CONTRIBUTING.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-  ([Contributor Covenant](https://www.contributor-covenant.org/))
-- [This readme](README.md)
-- [License file](LICENSE) ([MIT License](https://opensource.org/licenses/MIT))
-- [Shields](README.md#Shields) (from [shields.io](https://shields.io))
-- [Contributors](README.md#contributors)
-  (via [All Contributors](https://allcontributors.org/))
+- <a href='https://github.com/nikson-pj/c-programs/blob/master/factorial'>Factorial of a number</a>
 
 ## Contributors ✨
 
