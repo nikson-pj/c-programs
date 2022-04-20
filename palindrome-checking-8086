@@ -1,0 +1,44 @@
+
+--- program to check whether the string is palindrome or not ---
+
+data segment
+string db 'abbb','$'
+string1 db 'string is palindrome','$'
+string2 db 'string is not palindrome','$'
+data ends
+code segment
+assume cs:code,ds:data
+start:
+mov ax,data
+mov ds,ax
+mov bx,offset string
+mov bp,bx
+l1:inc bp
+cmp [bp],byte ptr'$'
+jnz l1
+dec bp
+check:mov ah,[bx]
+cmp ah,[bp]
+jnz l2
+dec bp
+inc bx
+cmp [bx],byte ptr'$'
+jnz check
+mov dx,offset string1
+mov ah,09h
+int 21h
+jmp last
+l2:mov dx,offset string2
+mov ah,09h
+int 21h
+last:mov ah,4ch
+int 21h
+code ends
+end start
+
+----To run the code----
+mount c c:\8086
+c:
+masm prog_name.asm
+link prog_name.obj
+prog_name.exe
