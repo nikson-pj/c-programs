@@ -1,0 +1,35 @@
+
+--- odd or even using 8086 ---
+data segment
+msg1 db 'odd$'
+msg2 db 'even$'
+num db 3
+data ends
+code segment
+assume cs:code,ds:data
+start:
+mov ax,data
+mov ds,ax
+mov si,offset num
+mov ax,[si]
+mov bx,ax
+shr ax,01h
+jc l
+mov ah,09h
+mov dx,offset msg2
+int 21h
+jmp stop
+l:mov ah,09h
+mov dx,offset msg1
+int 21h
+stop:mov ah,4ch
+int 21h
+code ends
+end start
+
+----To run the code----
+mount c c:\8086
+c:
+masm prog_name.asm
+link prog_name.obj
+prog_name.exe
