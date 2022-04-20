@@ -30,6 +30,10 @@ This repository contains collection of c program and masm program which help you
 
 ## MASM Programs Index
 
+- <a href='https://github.com/nikson-pj/c_and_masm_programs/blob/master/addition-using-8086'>Addition using 8086</a>
+- <a href='https://github.com/nikson-pj/c_and_masm_programs/blob/master/substraction-using-8086l'>Substraction using 8086</a>
+- <a href='https://github.com/nikson-pj/c_and_masm_programs/blob/master/palindrome-checking-8086'>Palindrome or not using 8086</a>
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
