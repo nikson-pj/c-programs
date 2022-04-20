@@ -1,6 +1,6 @@
-# C Program Collection
+# C & MASM Programs
 
-This repository contains collection of c program which help you to build basic programming skill. 🚀
+This repository contains collection of c program and masm program which help you to build basic programming skill. 🚀
 
 [![Github license](https://img.shields.io/github/license/gfmio/awesome-github-template.svg "Github license")](https://github.com/gfmio/awesome-github-template/blob/master/LICENSE)
 [![Open issues](https://img.shields.io/github/issues/gfmio/awesome-github-template.svg "Open issues")](https://github.com/gfmio/awesome-github-template/issues)
@@ -20,13 +20,15 @@ This repository contains collection of c program which help you to build basic p
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Contents
+## C Programs Index
 
 - <a href='https://github.com/nikson-pj/c-programs/blob/master/odd%20or%20even'>Odd or Even</a>
 - <a href='https://github.com/nikson-pj/c-programs/blob/master/factorial'>Factorial of a number</a>
 - <a href='https://github.com/nikson-pj/c-programs/blob/master/prime%20number'> Prime Number or Not</a>
 - <a href='https://github.com/nikson-pj/c-programs/blob/master/palindrome'>Palindrome or Not</a>
 - <a href='https://github.com/nikson-pj/c-programs/blob/master/Fibonacci%20Sequence'>Fibonacci Sequence</a>
+
+## MASM Programs Index
 
 ## Contributors ✨
 
