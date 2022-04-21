@@ -1,0 +1,32 @@
+
+--- factorial of a number using 8086 ---
+data segment
+n dw 1h
+data ends
+code segment
+assume cs:code, ds:data
+start:
+mov ax,data
+mov ds,ax
+mov ax,n
+mov cx,n
+fact:
+dec n
+mul cx
+dec cx
+jnz fact
+add ax,30h
+mov dx,ax
+mov ah,2
+int 21h
+mov ah,4ch
+int 21h
+code ends
+end start
+
+--- to run the code ---
+mount c c:\8086
+c:
+masm prog_name.asm
+link prog_name.obj
+prog_name.exe
