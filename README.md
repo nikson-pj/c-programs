@@ -39,16 +39,11 @@ This repository contains collection of c program and masm program which help you
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to the wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><img src="https://github.com/account" width="100px;" alt=""/><br/>NIKSON P J<br /></a><br /><a href="https://github.com/gfmio/awesome-github-template/commits?author=gfmio" title="Documentation">📖</a> <a href="#ideas-gfmio" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-gfmio" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-gfmio" title="Maintenance">🚧</a></td>
-  </tr>
-</table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
