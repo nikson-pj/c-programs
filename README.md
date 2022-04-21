@@ -34,6 +34,7 @@ This repository contains collection of c program and masm program which help you
 - <a href='https://github.com/nikson-pj/c_and_masm_programs/blob/master/substraction-using-8086'>Substraction using 8086</a>
 - <a href='https://github.com/nikson-pj/c_and_masm_programs/blob/master/palindrome-checking-8086'>Palindrome or not using 8086</a>
 - <a href='https://github.com/nikson-pj/c_and_masm_programs/blob/master/odd-or-even-using-8086'>Odd or even using 8086</a>
+- <a href='https://github.com/nikson-pj/c_and_masm_programs/blob/master/factorial-using-8086'>Factorial using 8086</a>
 
 ## Contributors ✨
 
