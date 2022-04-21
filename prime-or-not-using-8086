@@ -1,0 +1,49 @@
+
+--- prime or not using 8086 ---
+
+data segment
+num db 17h
+msg1 db 'Prime number','$'
+msg2 db 'Not a prime number','$'
+data ends
+code segment
+assume cs:code, ds:data
+start:
+mov ax,data
+mov ds,ax
+mov al,num
+mov bl,02h
+mov dx,00h
+mov ah,00h
+check:div bl
+cmp ah,00h
+jne next
+inc bh
+next:cmp bh,02h
+je false
+inc bl
+mov ax,00h
+mov dx,00h
+mov al,num
+cmp bl,num
+jne check
+true:
+mov dx,offset msg1
+mov ah,09h
+int 21h
+jmp exit
+false:
+mov dx,offset msg2
+mov ah,09h
+int 21h
+exit:mov ah,4ch
+int 21h
+code ends
+end start
+
+----To run the code----
+mount c c:\8086
+c:
+masm prog_name.asm
+link prog_name.obj
+prog_name.exe
