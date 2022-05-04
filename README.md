@@ -2,21 +2,8 @@
 
 This repository contains collection of c program and masm program which help you to build basic programming skill. 🚀
 
-[![Github license](https://img.shields.io/github/license/gfmio/awesome-github-template.svg "Github license")](https://github.com/gfmio/awesome-github-template/blob/master/LICENSE)
-[![Open issues](https://img.shields.io/github/issues/gfmio/awesome-github-template.svg "Open issues")](https://github.com/gfmio/awesome-github-template/issues)
-[![Closed issues](https://img.shields.io/github/issues-closed/gfmio/awesome-github-template.svg "Closed issues")](https://github.com/gfmio/awesome-github-template/issues?utf8=✓&q=is%3Aissue+is%3Aclosed)
-[![Open Pull Requests](https://img.shields.io/github/issues-pr/gfmio/awesome-github-template.svg "Open Pull Requests")](https://github.com/gfmio/awesome-github-template/pulls)
-[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/gfmio/awesome-github-template.svg "Closed Pull Requests")](https://github.com/gfmio/awesome-github-template/pulls?utf8=✓&q=is%3Apr+is%3Aclosed)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/gfmio/awesome-github-template.svg "Commit activity")](https://github.com/gfmio/awesome-github-template/graphs/commit-activity)
-[![GitHub contributors](https://img.shields.io/github/contributors/gfmio/awesome-github-template.svg "Github contributors")](https://github.com/gfmio/awesome-github-template/graphs/contributors)
-[![Last commit](https://img.shields.io/github/last-commit/gfmio/awesome-github-template.svg "Last commit")](https://github.com/gfmio/awesome-github-template/commits/master)
-
-![Actively maintained (2020)](https://img.shields.io/maintenance/yes/2020.svg "Actively maintained (2020)")
-![Website up/down](https://img.shields.io/website-up-down-green-red/https/github.com/gfmio/awesome-github-template.svg "Website up/down")
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![Github license](https://img.shields.io/github/license/gfmio/awesome-github-template.svg "Github license")](https://github.com/gfmio/awesome-github-template/blob/master/LICENSE)[![Open issues](https://img.shields.io/github/issues/gfmio/awesome-github-template.svg "Open issues")](https://github.com/gfmio/awesome-github-template/issues)[![Closed issues](https://img.shields.io/github/issues-closed/gfmio/awesome-github-template.svg "Closed issues")](https://github.com/gfmio/awesome-github-template/issues?utf8=✓&q=is%3Aissue+is%3Aclosed)[![Open Pull Requests](https://img.shields.io/github/issues-pr/gfmio/awesome-github-template.svg "Open Pull Requests")](https://github.com/gfmio/awesome-github-template/pulls)[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/gfmio/awesome-github-template.svg "Closed Pull Requests")](https://github.com/gfmio/awesome-github-template/pulls?utf8=✓&q=is%3Apr+is%3Aclosed)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/gfmio/awesome-github-template.svg "Commit activity")](https://github.com/gfmio/awesome-github-template/graphs/commit-activity)[![GitHub contributors](https://img.shields.io/github/contributors/gfmio/awesome-github-template.svg "Github contributors")](https://github.com/gfmio/awesome-github-template/graphs/contributors)[![Last commit](https://img.shields.io/github/last-commit/gfmio/awesome-github-template.svg "Last commit")](https://github.com/gfmio/awesome-github-template/commits/master)![Actively maintained (2020)](https://img.shields.io/maintenance/yes/2020.svg "Actively maintained (2020)")![Website up/down](https://img.shields.io/website-up-down-green-red/https/github.com/gfmio/awesome-github-template.svg "Website up/down")[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
