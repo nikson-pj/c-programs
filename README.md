@@ -14,6 +14,7 @@ This repository contains collection of c program and masm program which help you
 - <a href='https://github.com/nikson-pj/c-programs/blob/master/prime%20number'> Prime Number or Not</a>
 - <a href='https://github.com/nikson-pj/c-programs/blob/master/palindrome'>Palindrome or Not</a>
 - <a href='https://github.com/nikson-pj/c-programs/blob/master/Fibonacci%20Sequence'>Fibonacci Sequence</a>
+- <a href='https://github.com/nikson-pj/c_and_masm_programs/blob/master/udp-chat-c-program'>UDP Chat Program in C</a>
 
 ## MASM Programs Index
 
